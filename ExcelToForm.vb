@@ -363,4 +363,14 @@ IE.Document.All("element-35-10553759-7707336-2").Value = sheet1.Range("b109")
 IE.Document.All("element-35-10553759-7707337-1").Value = sheet1.Range("a110")
 IE.Document.All("element-35-10553759-7707337-2").Value = sheet1.Range("b110")
 
+''Analise
+IE.Document.All("element-13-10553743").Value = sheet1.Range("k9")
+IE.Document.All("element-13-10553747").Value = sheet1.Range("k10")
+IE.Document.All("element-13-10553750").Value = sheet1.Range("k11")
+IE.Document.All("element-13-10553751").Value = sheet1.Range("k12")
+IE.Document.All("element-13-10553752").Value = sheet1.Range("k13")
+IE.Document.All("element-13-10553760").Value = sheet1.Range("k14")
+IE.Document.All("element-13-10553761").Value = sheet1.Range("k15")
+IE.Document.All("element-13-10553762").Value = sheet1.Range("k16")        
+        
 End Sub
